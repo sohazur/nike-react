@@ -13,7 +13,7 @@
 
 .nike-bg-img {
   border-radius: 30px;
-  margin: 1.5rem;
+  margin: 1rem;
   background-color: #f1f1f1;
 }
 
@@ -21,4 +21,5 @@
   border: none;
   box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
   border-radius: 30px;
+  padding: 1.25rem;
 }
